@@ -12,8 +12,8 @@ public final class ConfiguracionDeepLearning {
     }
 
     /** DIR_CORPUS. */
-    public static final String DIR_CORPUS = "E:/Desarrollo/Machine_Learning/workspace_chess/corpus";
+    public static final String DIR_CORPUS = "./corpus";
 
     /** DIR_MODELOS. */
-    public static final String DIR_MODELOS = "E:/Desarrollo/Machine_Learning/workspace_chess/modelos";
+    public static final String DIR_MODELOS = "./modelos";
 }
